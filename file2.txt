@@ -1,0 +1,2 @@
+Hello everyone from file2
+Bye
